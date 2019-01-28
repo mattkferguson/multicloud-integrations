@@ -15,3 +15,7 @@ A variety of network deployment options that focus on a variety of Hybrid Cloud 
 ## EFK Installation on EKS
 
 Instructions to deploy an EFK (ElasticSearch, FluentD, Kibana) stack on EKS can be found [here](efk/README.md)
+
+## Stealthwatch Cloud VPC Flow Logs
+
+Documentation to add the neccessary AWS configurations to allow Stealthwatch Cloud to read VPC flow logs and resource metadata [here](https://github.com/obsrvbl/aws-setup)
